@@ -1,0 +1,14 @@
+{
+    "name": "smart-contracts-tutorial",
+    "version": "1.0.0",
+    "description": "Basic smart contracts app",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Emmanuel Ayodele Bello",
+    "license": "ISC",
+    "devDependencies": {
+      "hardhat": "^2.10.1"
+    }
+  }
